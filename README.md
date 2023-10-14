@@ -1,4 +1,4 @@
-<h1> Hi there 👋 I'm Souveek Roy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h1> Hi there 👋 I'm Uttam Meher! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SouveekRoy/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/souveek-roy-9a07a4147/)
@@ -31,7 +31,7 @@
 <BR>
   
 <p>
-    <img class="center" alt="Souveek's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=SouveekRoy.SouveekRoy"/>
+    <img class="center" alt="Uttam's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=UttamMeher.UttamMeher"/>
 </p>
   
   
